@@ -13,3 +13,6 @@ Create a simple Local Area Network (LAN) with two PCs and a switch.
 
 ## Outcome
 Successfully established communication between the two PCs.
+
+
+![image](https://github.com/user-attachments/assets/d62d530a-2bec-4f6a-9d9d-7276385cde3e)
